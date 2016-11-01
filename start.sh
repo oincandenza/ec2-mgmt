@@ -8,7 +8,7 @@
 #this is the text file that has all of the instance IDs that are under this job
 scheduleID = ''
 
-filename=/home/ec2-user/ec2-mgmt/startstop/instanceids/$scheduleID.txt
+filename=~/ec2-mgmt/startstop/instanceids/$scheduleID.txt
 
 #create an array of every instance-id in the txt file
 array=(`cat "$filename"`)
