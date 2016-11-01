@@ -2,6 +2,7 @@
 #######################################################
 # This script grabs the instance ids that were tagged #
 # with "StartStop:[tag]" and starts them              #
+# This runs at a specific time via cronjob            #
 #######################################################
 
 
