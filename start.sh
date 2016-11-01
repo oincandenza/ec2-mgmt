@@ -6,7 +6,8 @@
 #######################################################
 
 
-#this is the text file that has all of the instance IDs that are under this job
+#this is the text file that has all of the instance IDs 
+#that are under this job's tag
 scheduleID = ''
 
 filename=~/ec2-mgmt/startstop/instanceids/$scheduleID.txt
